@@ -1,3 +1,5 @@
+# codes are originally copied from "https://github.com/kairess/streamlit-examples"
+
 # Streamlit Examples
 
 1. MNIST recognizer web app
