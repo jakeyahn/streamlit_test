@@ -2,6 +2,6 @@ streamlit==1.8.1
 streamlit-drawable-canvas==0.5.1
 cryptocmd==0.6.0
 plotly==4.14.3
-tensorflow
-opencv-python
+tensorflow==2.4.0
+opencv-python==4.6.0.66
 pandas_datareader==0.9.0
